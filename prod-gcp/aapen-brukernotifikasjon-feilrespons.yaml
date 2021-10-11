@@ -22,3 +22,6 @@ spec:
     - team: min-side
       application: dittnav-brukernotifikasjonbestiller
       access: write  # read, write, readwrite
+    - team: min-side
+      application: tms-kafka-test-reader
+      access: read

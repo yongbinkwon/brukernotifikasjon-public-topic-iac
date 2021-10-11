@@ -25,3 +25,6 @@ spec:
     - team: personbruker
       application: dittnav-brukernotifikasjonbestiller
       access: write
+    - team: min-side
+      application: tms-kafka-test-reader
+      access: read
