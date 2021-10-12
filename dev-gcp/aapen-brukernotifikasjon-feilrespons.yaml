@@ -28,3 +28,6 @@ spec:
     - team: min-side
       application: tms-kafka-test-reader
       access: read
+    - team: personbruker
+      application: dittnav-periodic-metrics-reporter
+      access: read
