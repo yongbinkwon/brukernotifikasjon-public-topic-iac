@@ -2,8 +2,6 @@ name: Deploy feilrespons-topic i dev-gcp
 
 on:
   push:
-    branches:
-      - main
     paths:
       - dev-gcp/aapen-brukernotifikasjon-feilrespons.yaml
 
