@@ -17,7 +17,7 @@ spec:
     partitions: 4
     replication: 3  # see min/max requirements
     retentionBytes: -1  # -1 means unlimited
-    retentionHours: 168  # One week
+    retentionHours: 0  # One week
   acl:
     - team: min-side
       application: dittnav-brukernotifikasjonbestiller
