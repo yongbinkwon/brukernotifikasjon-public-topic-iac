@@ -25,3 +25,6 @@ spec:
     - team: personbruker
       application: dittnav-brukernotifikasjonbestiller
       access: read
+    - team: min-side
+      application: tms-event-test-producer
+      access: write
