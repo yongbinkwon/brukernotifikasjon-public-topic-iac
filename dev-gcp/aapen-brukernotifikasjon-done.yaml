@@ -23,9 +23,6 @@ spec:
       application: dittnav-brukernotifikasjonbestiller
       access: read   # read, write, readwrite
     - team: min-side
-      application: dittnav-brukernotifikasjonbestiller
-      access: read
-    - team: min-side
       application: dittnav-event-aggregator
       access: write
     - team: min-side
