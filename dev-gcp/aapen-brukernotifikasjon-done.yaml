@@ -22,10 +22,10 @@ spec:
     - team: min-side
       application: dittnav-brukernotifikasjonbestiller
       access: read   # read, write, readwrite
-    - team: personbruker
+    - team: min-side
       application: dittnav-brukernotifikasjonbestiller
       access: read
-    - team: personbruker
+    - team: min-side
       application: dittnav-event-aggregator
       access: write
     - team: min-side
