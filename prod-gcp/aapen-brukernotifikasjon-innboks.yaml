@@ -22,3 +22,6 @@ spec:
     - team: min-side
       application: dittnav-brukernotifikasjonbestiller
       access: read   # read, write, readwrite
+    - team: min-side
+      application: tms-event-test-producer
+      access: write
