@@ -28,6 +28,3 @@ spec:
     - team: personbruker
       application: dittnav-periodic-metrics-reporter
       access: read
-    - team: min-side
-      application: tms-event-test-producer
-      access: write
