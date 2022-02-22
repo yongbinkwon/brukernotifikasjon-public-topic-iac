@@ -19,6 +19,12 @@ Repo med konfigurasjon for hvem som kan produsere og konsumere fra DittNAV sine 
           access: read 
 ```
 
+Når en skal spesifisere topic-navn i sin app må man også ha med navn på namespace der topic ligger. 
+
+For alle topicer i dette repoet vil dette være `min-side`.
+
+For eksempel: `min-side.aapen-brukernotifikasjon-beskjed-v1`
+
 # Henvendelser
 
 Spørsmål knyttet til koden eller prosjektet kan rettes mot https://github.com/orgs/navikt/teams/min-side
