@@ -31,3 +31,6 @@ spec:
     - team: teamdokumenthandtering
       application: dokdistdittnav
       access: write
+    - team: min-side
+      application: dittnav-event-handler
+      access: write
