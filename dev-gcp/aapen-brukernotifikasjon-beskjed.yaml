@@ -31,3 +31,6 @@ spec:
     - team: teamdokumenthandtering
       application: dokdistdittnav
       access: write
+    - team: dusseldorf
+      application: k9-dittnav-varsel
+      access: write
