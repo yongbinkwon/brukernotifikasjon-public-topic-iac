@@ -31,6 +31,3 @@ spec:
     - team: min-side
       application: dittnav-event-handler
       access: write
-    - team: team-soknad
-      application: henvendelse
-      access: write
