@@ -25,3 +25,6 @@ spec:
     - team: min-side
       application: tms-event-test-producer
       access: write
+    - team: team-soknad
+      application: henvendelse
+      access: write
