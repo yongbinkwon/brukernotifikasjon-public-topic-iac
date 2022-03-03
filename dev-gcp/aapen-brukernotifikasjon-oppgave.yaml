@@ -31,3 +31,6 @@ spec:
     - team: teamdokumenthandtering
       application: dokdistdittnav
       access: write
+    - team: team-soknad
+      application: henvendelse
+      access: write
