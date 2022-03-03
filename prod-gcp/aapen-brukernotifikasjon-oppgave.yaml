@@ -25,3 +25,9 @@ spec:
     - team: min-side
       application: tms-event-test-producer
       access: write
+    - team: flex
+      application: spinnsyn-brukernotifikasjon
+      access: write
+    - team: flex
+      application: syfosoknadbrukernotifikasjon
+      access: write

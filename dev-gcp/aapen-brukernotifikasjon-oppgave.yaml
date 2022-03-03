@@ -34,3 +34,9 @@ spec:
     - team: team-soknad
       application: henvendelse
       access: write
+    - team: flex
+      application: spinnsyn-brukernotifikasjon
+      access: write
+    - team: flex
+      application: syfosoknadbrukernotifikasjon
+      access: write
