@@ -31,3 +31,9 @@ spec:
     - team: min-side
       application: dittnav-event-handler
       access: write
+    - team: flex
+      application: spinnsyn-brukernotifikasjon
+      access: write
+    - team: flex
+      application: syfosoknadbrukernotifikasjon
+      access: write
