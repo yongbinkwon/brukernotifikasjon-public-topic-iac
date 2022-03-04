@@ -30,4 +30,7 @@ spec:
       access: write
     - team: flex
       application: syfosoknadbrukernotifikasjon
+      accesss: write
+    - team: team-soknad
+      application: henvendelse
       access: write
