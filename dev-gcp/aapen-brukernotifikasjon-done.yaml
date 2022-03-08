@@ -43,3 +43,6 @@ spec:
     - team: flex
       application: syfosoknadbrukernotifikasjon
       access: write
+    - team: teamdigisos
+      application: sosialhjelp-dialog-api
+      access: write

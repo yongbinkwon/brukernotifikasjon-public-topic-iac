@@ -37,3 +37,6 @@ spec:
     - team: team-soknad
       application: henvendelse
       access: write
+    - team: teamdigisos
+      application: sosialhjelp-dialog-api
+      access: write
