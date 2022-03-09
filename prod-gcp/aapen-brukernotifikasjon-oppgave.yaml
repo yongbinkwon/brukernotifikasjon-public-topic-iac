@@ -34,3 +34,6 @@ spec:
     - team: team-soknad
       application: henvendelse
       access: write
+    - team: pto
+      application: veilarbaktivitet
+      access: write
