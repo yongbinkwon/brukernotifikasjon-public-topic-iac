@@ -40,3 +40,6 @@ spec:
     - team: flex
       application: syfosoknadbrukernotifikasjon
       access: write
+    - team: pto
+      application: veilarbaktivitet
+      access: write
