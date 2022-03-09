@@ -37,3 +37,6 @@ spec:
     - team: teamfamilie
       application: familie-ef-mottak
       access: write
+    - team: team-esyfo
+      application: esyfovarsel
+      access: write
