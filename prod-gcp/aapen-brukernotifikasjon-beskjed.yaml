@@ -40,6 +40,9 @@ spec:
     - team: team-esyfo
       application: esyfovarsel
       access: write
+    - team: teamsykefravr
+      application: isdialogmote
+      access: write
     - team: pto
       application: veilarbaktivitet
       access: write
