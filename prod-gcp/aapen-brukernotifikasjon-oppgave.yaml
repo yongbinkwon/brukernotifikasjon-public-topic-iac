@@ -37,3 +37,6 @@ spec:
     - team: pto
       application: veilarbaktivitet
       access: write
+    - team: teamsykmelding
+      application: syfosmvarsel
+      access: write
