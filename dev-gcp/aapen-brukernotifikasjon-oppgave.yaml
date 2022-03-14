@@ -34,6 +34,9 @@ spec:
     - team: team-soknad
       application: henvendelse
       access: write
+    - team: teamsykefravr
+      application: isdialogmote
+      access: write
     - team: flex
       application: spinnsyn-brukernotifikasjon
       access: write
