@@ -49,3 +49,6 @@ spec:
     - team: teamforeldrepenger
       application: fpinfo-historikk
       access: write
+    - team: bidrag
+      application: farskapsportal
+      access: write
