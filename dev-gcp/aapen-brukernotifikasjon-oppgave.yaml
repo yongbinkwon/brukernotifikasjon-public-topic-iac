@@ -52,3 +52,7 @@ spec:
     - team: teamnks
       application: sf-brukernotifikasjon
       access: write
+    - team: teamforeldrepenger
+      application: fpinfo-historikk
+      access: write
+      
