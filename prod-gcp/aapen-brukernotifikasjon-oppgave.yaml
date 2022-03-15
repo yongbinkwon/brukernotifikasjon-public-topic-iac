@@ -43,3 +43,6 @@ spec:
     - team: teamsykmelding
       application: syfosmvarsel
       access: write
+    - team: teamforeldrepenger
+      application: fpinfo-historikk
+      access: write
