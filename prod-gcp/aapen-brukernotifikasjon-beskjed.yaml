@@ -58,3 +58,6 @@ spec:
     - team: etterlatte
       application: etterlatte-notifikasjoner
       access: write
+    - team: teamdigihot
+      application: hm-ditt-nav
+      access: write

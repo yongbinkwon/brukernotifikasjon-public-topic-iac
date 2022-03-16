@@ -52,3 +52,6 @@ spec:
     - team: bidrag
       application: farskapsportal
       access: write
+    - team: teamdigihot
+      application: hm-ditt-nav
+      access: write
