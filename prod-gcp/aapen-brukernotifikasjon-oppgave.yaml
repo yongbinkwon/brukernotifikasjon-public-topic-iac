@@ -49,8 +49,11 @@ spec:
     - team: teamforeldrepenger
       application: fpinfo-historikk
       access: write
-    - team: bidrag
-      application: farskapsportal
+    - team: farskapsportal
+      application: farskapsportal-api
+      access: write
+    - team: farskapsportal
+      application: asynkron
       access: write
     - team: teamdigihot
       application: hm-ditt-nav

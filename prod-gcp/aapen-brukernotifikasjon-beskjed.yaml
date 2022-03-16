@@ -51,9 +51,11 @@ spec:
       access: write
     - team: teamforeldrepenger
       application: fpinfo-historikk
+    - team: farskapsportal
+      application: farskapsportal-api
       access: write
-    - team: bidrag
-      application: farskapsportal
+    - team: farskapsportal
+      application: asynkron
       access: write
     - team: etterlatte
       application: etterlatte-notifikasjoner
