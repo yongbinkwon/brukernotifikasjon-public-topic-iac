@@ -46,6 +46,9 @@ spec:
     - team: pto
       application: veilarbaktivitet
       access: write
+    - team: pto
+      application: veilarbdialog
+      access: write
     - team: teamforeldrepenger
       application: fpinfo-historikk
       access: write

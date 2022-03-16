@@ -52,6 +52,9 @@ spec:
     - team: pto
       application: veilarbaktivitet
       access: write
+    - team: pto
+      application: veilarbdialog
+      access: write
     - team: teamnks
       application: sf-brukernotifikasjon
       access: write
