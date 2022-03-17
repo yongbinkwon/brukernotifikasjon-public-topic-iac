@@ -51,6 +51,7 @@ spec:
       access: write
     - team: teamforeldrepenger
       application: fpinfo-historikk
+      access: write
     - team: farskapsportal
       application: farskapsportal-api
       access: write
