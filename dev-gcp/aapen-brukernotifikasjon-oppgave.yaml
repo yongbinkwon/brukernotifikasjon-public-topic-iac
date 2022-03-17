@@ -73,3 +73,6 @@ spec:
     - team: teamdigihot
       application: hm-ditt-nav
       access: write
+    - team: teampam
+      application: pam-brukernotifikasjon
+      access: write
